@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreeaJS
 - 👀 I’m interested in JS;
-- 🌱 I’m currently learning JS fundamentals;
+- 🌱 I’m currently learning REACT;
 - 💞️ I’m looking to collaborate on web development;
 - 📫 How to reach me: give me an email.
 
